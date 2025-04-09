@@ -1,4 +1,4 @@
-div[class^="col"] {
+/* div[class^="col"] {
     min-height: 50px;
     border: 1px solid black;
 }
@@ -9,5 +9,16 @@ div[class^="col"] {
 .row{
     border-left: 2px solid black;
     height: 200px;
-}
+} */
 
+.golden-glow {
+    font-family: "Rouge Script", cursive;
+    font-weight: 400;
+    font-style: normal;
+  }
+  
+.buttons {
+font-family: "Delius", cursive;
+ font-weight: 400;
+  font-style: normal;  
+}
