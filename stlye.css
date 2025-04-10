@@ -22,3 +22,9 @@ font-family: "Delius", cursive;
  font-weight: 400;
   font-style: normal;  
 }
+.special{
+font-family: "Oswald", sans-serif;
+font-optical-sizing: auto;
+font-weight: weight;
+font-style: normal;
+}
